@@ -6,7 +6,6 @@
 
 package serwer.cyberlingwista;
 
-import serwer.cyberlingwista.ui.LoginFrame;
 
 /**
  *
@@ -14,7 +13,6 @@ import serwer.cyberlingwista.ui.LoginFrame;
  */
 public class Main {
     public static void main(String [] args){
-        LoginFrame lf = new LoginFrame();
-        lf.setVisible(true);
+        System.out.println("jhkjhk");
     }
 }
